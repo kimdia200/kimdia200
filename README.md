@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![kimdia200's github stats](https://github-readme-stats.vercel.app/api?username=kimdia200&show_icons=true&theme=merko) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdia200&layout=compact&show_icons=true&theme=merko)
 ---
-# Hi there 👋
+# Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdia200&count_bg=%23F7BF07&title_bg=%23AA5DE3&icon=&icon_color=%23F3F3F3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 ```
 My name is 😄김윤수😄
 I am studying hard now aiming to become a Java junior developer.
@@ -24,7 +24,7 @@ So I was always interested in web and app development.
 Recently, I've been working really hard to achieve my goals and Trying to commit daily.
 `````
 ---
-<h2>🌱Technology Stack</h2>
+<h2>🌱Technology Stack</h2> 
 <ul>
   <li><strong>Java, JDBC</strong></li>
   <li><strong>Oracle, FireBase</strong></li>
