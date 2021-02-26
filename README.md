@@ -28,6 +28,7 @@ Recently, I've been working really hard to achieve my goals and Trying to commit
 <ul>
   <li><strong>Java, JDBC</strong></li>
   <li><strong>Oracle, FireBase</strong></li>
+  <li>HTML, CSS, JavaScript</li>
   <li><strong>Android, Retrofit2, Okhttp4, Paho(mqtt)</strong></li>
 </ul>
 
