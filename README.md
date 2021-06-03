@@ -25,13 +25,31 @@ Recently, I've been working really hard to achieve my goals and Trying to commit
 `````
 ---
 <h2>🌱Technology Stack</h2> 
-<ul>
-  <li><strong>Java, JDBC</strong></li>
-  <li><strong>Oracle, FireBase</strong></li>
-  <li><strong>HTML, CSS, JavaScript, JQuery, AJAX</strong></li>
-  <li><strong>Tomcat, AWS-EC2</strong></li>
-  <li><strong>Android, Retrofit2, Okhttp4, Paho(mqtt)</strong></li>
-</ul>
+
+### Backend
+
+- Java
+- Spring, Spring Boot (공부중)
+- Maven
+- JDBC, mybatis
+- Eclipse, STS, VsCode, Android Studio
+- app - retrofit2, okhttp4, Paho
+
+### DevOps
+
+- AWS EC2, S3
+- Oracle DB, firebase
+- Tomcat v9.0
+
+### Frontend
+
+- HTML5, CSS, JavaScript, JQuery, AJax
+- JSP
+
+### Collaboration
+
+- Git Bash, GitHub, Egit
+- Slack
 
 <h2>📫Education</h2>
 <ul>
