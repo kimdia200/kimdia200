@@ -23,6 +23,8 @@ I am studying hard now aiming to become a Java junior developer.
 So I was always interested in web and app development.
 Recently, I've been working really hard to achieve my goals and Trying to commit daily.
 `````
+
+### [노션 포트폴리오 이동](http://김윤수.kro.kr)
 ---
 <h2>🌱Technology Stack</h2> 
 
