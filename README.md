@@ -35,12 +35,11 @@ Recently, I've been working really hard to achieve my goals and Trying to commit
 - Maven
 - JDBC, mybatis
 - Eclipse, STS, VsCode, Android Studio
-- app - retrofit2, okhttp4, Paho
 
 ### DevOps
 
 - AWS EC2, S3
-- Oracle DB, firebase
+- Oracle DB
 - Tomcat v9.0
 
 ### Frontend
