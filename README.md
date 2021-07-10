@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 ---
 # Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdia200&count_bg=%23F7BF07&title_bg=%23AA5DE3&icon=&icon_color=%23F3F3F3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 ```
-My name is 😄김윤수😄
-I am studying hard now aiming to become a Java junior developer.
-So I was always interested in web and app development.
-Recently, I've been working really hard to achieve my goals and Trying to commit daily.
+안녕하십니까! 개발자 😄김윤수😄 입니다.
+저는 Java를 사용한 Spring 기반 백엔드 개발자입니다.
+남들에게 뒤쳐지지 않기위해 누구보다 열심히 공부하고있다고 생각하며
+그 기록은 깃허브와 노션을 통해 기록하고 있습니다.
+저의 가치를 입증하기 위해 계속 성장하는 모습 보여드리겠습니다
+감사합니다~!
 `````
+
+### [노션 페이지 이동](http://kimdia200.kro.kr)
 
 ### [노션 포트폴리오 이동](http://김윤수.kro.kr)
 ---
@@ -31,7 +35,7 @@ Recently, I've been working really hard to achieve my goals and Trying to commit
 ### Backend
 
 - Java
-- Spring, Spring Boot (공부중)
+- Spring, Spring Boot
 - Maven
 - JDBC, mybatis
 - Eclipse, STS, VsCode, Android Studio
