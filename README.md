@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### DevOps
 
-- AWS EC2, S3
+- AWS EC2, S3,RDS
 - Oracle DB
 - Tomcat v9.0
 
