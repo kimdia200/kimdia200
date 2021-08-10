@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - Java
 - Spring, Spring Boot
-- Maven
+- servlet
 - JDBC, mybatis
 - Eclipse, STS, VsCode, Android Studio
 
