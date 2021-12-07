@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 남들에게 뒤쳐지지 않기위해 누구보다 열심히 공부하고있다고 생각하며
 그 기록은 깃허브와 노션을 통해 기록하고 있습니다.
 저의 가치를 입증하기 위해 계속 성장하는 모습 보여드리겠습니다
-감사합니다~!
+감사합니다~!3
 `````
 
 ### [노션 페이지 이동](http://kimdia200.kro.kr)
@@ -38,13 +38,15 @@ Here are some ideas to get you started:
 - Spring, Spring Boot
 - servlet
 - JDBC, mybatis
-- Eclipse, STS, VsCode, Android Studio
+- Eclipse, STS, VsCode, Android Studio, IntelliJ, DataGrip, SqlDeveloper
+- Oracle DB, Tibero DB, Mysql DB, Maria DB, AWS RDS
 
 ### DevOps
 
-- AWS EC2, S3,RDS
-- Oracle DB
-- Tomcat v9.0
+- AWS EC2
+- Tomcat, Jeus, JBoss, WebLogic
+- Ubuntu, CentOS
+- Putty, FileZila, MobaXterm
 
 ### Frontend
 
@@ -53,8 +55,11 @@ Here are some ideas to get you started:
 
 ### Collaboration
 
-- Git Bash, GitHub, Egit
+- Git Bash, GitHub, Egit, SVN
 - Slack
+
+### Career
+- (2021.08.18 ~ ) 모바일리더 연구2팀 파트3 전자문서관리 솔루션 담당
 
 <h2>📫Education</h2>
 <ul>
